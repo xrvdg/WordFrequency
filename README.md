@@ -7,8 +7,8 @@ cabal run
 
 When using another package manager install the development package of `zlib` before running `cabal run`.
 
-The word frequency service will now be available on "http://localhost:8080" with endpoints at 
-'/calculateFrequencyForWord', '/calculateHighestFrequency' and '/calculateMostFrequentWords'.  
+The word frequency service will now be available on `http://localhost:8080` with endpoints at 
+`/calculateFrequencyForWord`, `/calculateHighestFrequency` and `/calculateMostFrequentWords`.  
 
 ## Examples
 
